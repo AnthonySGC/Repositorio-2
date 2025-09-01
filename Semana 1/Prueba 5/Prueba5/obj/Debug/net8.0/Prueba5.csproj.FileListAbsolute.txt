@@ -1,0 +1,14 @@
+C:\Users\Anthony\OneDrive\Desktop\Cs\Semana 1\Prueba 5\Prueba5\bin\Debug\net8.0\Prueba5.exe
+C:\Users\Anthony\OneDrive\Desktop\Cs\Semana 1\Prueba 5\Prueba5\bin\Debug\net8.0\Prueba5.deps.json
+C:\Users\Anthony\OneDrive\Desktop\Cs\Semana 1\Prueba 5\Prueba5\bin\Debug\net8.0\Prueba5.runtimeconfig.json
+C:\Users\Anthony\OneDrive\Desktop\Cs\Semana 1\Prueba 5\Prueba5\bin\Debug\net8.0\Prueba5.dll
+C:\Users\Anthony\OneDrive\Desktop\Cs\Semana 1\Prueba 5\Prueba5\bin\Debug\net8.0\Prueba5.pdb
+C:\Users\Anthony\OneDrive\Desktop\Cs\Semana 1\Prueba 5\Prueba5\obj\Debug\net8.0\Prueba5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anthony\OneDrive\Desktop\Cs\Semana 1\Prueba 5\Prueba5\obj\Debug\net8.0\Prueba5.AssemblyInfoInputs.cache
+C:\Users\Anthony\OneDrive\Desktop\Cs\Semana 1\Prueba 5\Prueba5\obj\Debug\net8.0\Prueba5.AssemblyInfo.cs
+C:\Users\Anthony\OneDrive\Desktop\Cs\Semana 1\Prueba 5\Prueba5\obj\Debug\net8.0\Prueba5.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\OneDrive\Desktop\Cs\Semana 1\Prueba 5\Prueba5\obj\Debug\net8.0\Prueba5.dll
+C:\Users\Anthony\OneDrive\Desktop\Cs\Semana 1\Prueba 5\Prueba5\obj\Debug\net8.0\refint\Prueba5.dll
+C:\Users\Anthony\OneDrive\Desktop\Cs\Semana 1\Prueba 5\Prueba5\obj\Debug\net8.0\Prueba5.pdb
+C:\Users\Anthony\OneDrive\Desktop\Cs\Semana 1\Prueba 5\Prueba5\obj\Debug\net8.0\Prueba5.genruntimeconfig.cache
+C:\Users\Anthony\OneDrive\Desktop\Cs\Semana 1\Prueba 5\Prueba5\obj\Debug\net8.0\ref\Prueba5.dll

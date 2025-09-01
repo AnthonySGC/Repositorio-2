@@ -1,0 +1,14 @@
+C:\Users\Anthony\OneDrive\Desktop\Cs\Prueba3\Prueba3\bin\Debug\net8.0\Prueba3.exe
+C:\Users\Anthony\OneDrive\Desktop\Cs\Prueba3\Prueba3\bin\Debug\net8.0\Prueba3.deps.json
+C:\Users\Anthony\OneDrive\Desktop\Cs\Prueba3\Prueba3\bin\Debug\net8.0\Prueba3.runtimeconfig.json
+C:\Users\Anthony\OneDrive\Desktop\Cs\Prueba3\Prueba3\bin\Debug\net8.0\Prueba3.dll
+C:\Users\Anthony\OneDrive\Desktop\Cs\Prueba3\Prueba3\bin\Debug\net8.0\Prueba3.pdb
+C:\Users\Anthony\OneDrive\Desktop\Cs\Prueba3\Prueba3\obj\Debug\net8.0\Prueba3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anthony\OneDrive\Desktop\Cs\Prueba3\Prueba3\obj\Debug\net8.0\Prueba3.AssemblyInfoInputs.cache
+C:\Users\Anthony\OneDrive\Desktop\Cs\Prueba3\Prueba3\obj\Debug\net8.0\Prueba3.AssemblyInfo.cs
+C:\Users\Anthony\OneDrive\Desktop\Cs\Prueba3\Prueba3\obj\Debug\net8.0\Prueba3.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\OneDrive\Desktop\Cs\Prueba3\Prueba3\obj\Debug\net8.0\Prueba3.dll
+C:\Users\Anthony\OneDrive\Desktop\Cs\Prueba3\Prueba3\obj\Debug\net8.0\refint\Prueba3.dll
+C:\Users\Anthony\OneDrive\Desktop\Cs\Prueba3\Prueba3\obj\Debug\net8.0\Prueba3.pdb
+C:\Users\Anthony\OneDrive\Desktop\Cs\Prueba3\Prueba3\obj\Debug\net8.0\Prueba3.genruntimeconfig.cache
+C:\Users\Anthony\OneDrive\Desktop\Cs\Prueba3\Prueba3\obj\Debug\net8.0\ref\Prueba3.dll
