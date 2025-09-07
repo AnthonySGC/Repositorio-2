@@ -1,0 +1,3 @@
+[07/09/2025 12:55:38 p. m.] Formato inválido ingresado: 05-09-2025
+[07/09/2025 12:55:55 p. m.] Formato inválido ingresado: 5-5-2025
+[07/09/2025 12:58:39 p. m.] Formato inválido ingresado: 06/06/25
