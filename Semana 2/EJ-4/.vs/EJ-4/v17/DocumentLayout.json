@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Anthony\\OneDrive\\Desktop\\EJ-4\\",
+  "WorkspaceRootPath": "C:\\Users\\Anthony\\OneDrive\\Desktop\\Cs\\Semana 2\\EJ-4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{53AC80A7-853E-487F-86F2-09F464958952}|EJ-4\\EJ-4.csproj|c:\\users\\anthony\\onedrive\\desktop\\ej-4\\ej-4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53AC80A7-853E-487F-86F2-09F464958952}|EJ-4\\EJ-4.csproj|solutionrelative:ej-4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anthony\\OneDrive\\Desktop\\Cs\\Semana 2\\EJ-4\\EJ-4\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EJ-4\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Anthony\\OneDrive\\Desktop\\EJ-4\\EJ-4\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Anthony\\OneDrive\\Desktop\\Cs\\Semana 2\\EJ-4\\EJ-4\\Program.cs",
               "RelativeDocumentMoniker": "EJ-4\\Program.cs",
-              "ToolTip": "C:\\Users\\Anthony\\OneDrive\\Desktop\\EJ-4\\EJ-4\\Program.cs",
+              "ToolTip": "C:\\Users\\Anthony\\OneDrive\\Desktop\\Cs\\Semana 2\\EJ-4\\EJ-4\\Program.cs",
               "RelativeToolTip": "EJ-4\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwC8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-07T18:47:04.546Z",
               "EditorCaption": ""

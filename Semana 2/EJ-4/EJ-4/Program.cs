@@ -28,14 +28,14 @@ class Program
 
                 // Fecha válida: mostrar y registrar
                 Console.WriteLine("\nFecha válida: " + fechaEntrega.ToString("dd/MM/yyyy") + "\n");
-                File.AppendAllText("fechas_validas.txt", $"[{DateTime.Now}] Fecha válida ingresada: {fechaEntrega:dd/MM/yyyy}{Environment.NewLine}");
+                File.AppendAllText("fechas_validas.txt", $" Fecha válida ingresada: {fechaEntrega:dd/MM/yyyy}{Environment.NewLine}");
 
                 fechaValida = true; // salir del bucle
             }
             catch (FormatException)
             {
                 // Registrar el error en log.txt
-                File.AppendAllText("log.txt", $"[{DateTime.Now}] Formato inválido ingresado: {input}{Environment.NewLine}");
+                File.AppendAllText("log.txt", $" Formato inválido ingresado: {input}{Environment.NewLine}");
 
                 // Mensaje claro al usuario
                 Console.WriteLine("\nFormato inválido. Use exactamente dd/MM/yyyy (ej. 05/09/2025).\n");

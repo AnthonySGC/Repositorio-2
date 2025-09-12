@@ -12,3 +12,18 @@ C:\Users\Anthony\OneDrive\Desktop\EJ-4\EJ-4\obj\Debug\net8.0\refint\EJ-4.dll
 C:\Users\Anthony\OneDrive\Desktop\EJ-4\EJ-4\obj\Debug\net8.0\EJ-4.pdb
 C:\Users\Anthony\OneDrive\Desktop\EJ-4\EJ-4\obj\Debug\net8.0\EJ-4.genruntimeconfig.cache
 C:\Users\Anthony\OneDrive\Desktop\EJ-4\EJ-4\obj\Debug\net8.0\ref\EJ-4.dll
+C:\Users\Anthony\OneDrive\Desktop\Cs\Semana 2\EJ-4\EJ-4\bin\Debug\net8.0\EJ-4.exe
+C:\Users\Anthony\OneDrive\Desktop\Cs\Semana 2\EJ-4\EJ-4\bin\Debug\net8.0\EJ-4.deps.json
+C:\Users\Anthony\OneDrive\Desktop\Cs\Semana 2\EJ-4\EJ-4\bin\Debug\net8.0\EJ-4.runtimeconfig.json
+C:\Users\Anthony\OneDrive\Desktop\Cs\Semana 2\EJ-4\EJ-4\bin\Debug\net8.0\EJ-4.dll
+C:\Users\Anthony\OneDrive\Desktop\Cs\Semana 2\EJ-4\EJ-4\bin\Debug\net8.0\EJ-4.pdb
+C:\Users\Anthony\OneDrive\Desktop\Cs\Semana 2\EJ-4\EJ-4\obj\Debug\net8.0\EJ-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anthony\OneDrive\Desktop\Cs\Semana 2\EJ-4\EJ-4\obj\Debug\net8.0\EJ-4.AssemblyInfoInputs.cache
+C:\Users\Anthony\OneDrive\Desktop\Cs\Semana 2\EJ-4\EJ-4\obj\Debug\net8.0\EJ-4.AssemblyInfo.cs
+C:\Users\Anthony\OneDrive\Desktop\Cs\Semana 2\EJ-4\EJ-4\obj\Debug\net8.0\EJ-4.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\OneDrive\Desktop\Cs\Semana 2\EJ-4\EJ-4\obj\Debug\net8.0\EJ-4.sourcelink.json
+C:\Users\Anthony\OneDrive\Desktop\Cs\Semana 2\EJ-4\EJ-4\obj\Debug\net8.0\EJ-4.dll
+C:\Users\Anthony\OneDrive\Desktop\Cs\Semana 2\EJ-4\EJ-4\obj\Debug\net8.0\refint\EJ-4.dll
+C:\Users\Anthony\OneDrive\Desktop\Cs\Semana 2\EJ-4\EJ-4\obj\Debug\net8.0\EJ-4.pdb
+C:\Users\Anthony\OneDrive\Desktop\Cs\Semana 2\EJ-4\EJ-4\obj\Debug\net8.0\EJ-4.genruntimeconfig.cache
+C:\Users\Anthony\OneDrive\Desktop\Cs\Semana 2\EJ-4\EJ-4\obj\Debug\net8.0\ref\EJ-4.dll
