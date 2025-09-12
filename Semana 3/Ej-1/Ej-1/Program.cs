@@ -55,17 +55,6 @@ namespace ej2
                         continue; // Regresa al inicio del bucle
                     }
 
-                    // Pedimos cantidad
-                    Console.WriteLine("Ingrese la cantidad");
-                    bool cantidadValida = int.TryParse(Console.ReadLine(), out cantidad);
-
-                    // Validamos que la cantidad sea válida y mayor que 0
-                    if (!cantidadValida || cantidad <= 0)
-                    {
-                        Console.WriteLine("Por favor, ingrese una cantidad válida (mayor a 0).");
-                        continue; // Regresa al inicio del bucle
-                    }
-
                     // Según la selección, asignamos precio y calculamos subtotal con la función
                     switch (select)
                     {
