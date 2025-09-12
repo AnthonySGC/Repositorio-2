@@ -1,4 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
+// See https://aka.ms/new-console-template for more information
 // Importamos las librerías básicas de C#
 using System;
 using System.Collections.Generic;
@@ -52,6 +53,17 @@ namespace ej2
                     if (!productoValido || select < 1 || select > 3)
                     {
                         Console.WriteLine("Por favor, ingrese un número válido de producto (1-3).");
+                        continue; // Regresa al inicio del bucle
+                    }
+
+                    // Pedimos cantidad
+                    Console.WriteLine("Ingrese la cantidad");
+                    bool cantidadValida = int.TryParse(Console.ReadLine(), out cantidad);
+
+                    // Validamos que la cantidad sea válida y mayor que 0
+                    if (!cantidadValida || cantidad <= 0)
+                    {
+                        Console.WriteLine("Por favor, ingrese una cantidad válida (mayor a 0).");
                         continue; // Regresa al inicio del bucle
                     }
 
